@@ -1,4 +1,13 @@
 # 20240210_-0-24
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COACHTECH</title>
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
 <h1>株式会社TECH</h1>
 <ul>
         <li>ホーム</li>
@@ -54,8 +63,8 @@
         <select name="select">
             <option value="お申し込み">お申し込み</option>
             </select>
-
             <br />
             <small>&copy; 2020 TECH inc.
-
             </small>
+            </body>
+            </html>
